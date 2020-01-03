@@ -1,0 +1,24 @@
+培训过程中的一些路径：
+
+命令行：
+export AWS_DEFAULT_REGION=cn-northwest-1
+curl 
+http://169.254.169.254/latest/meta-data/iam/security-credentials/
+
+
+S3报价：
+	中国：https://www.amazonaws.cn/s3/pricing/
+	非中国：https://aws.amazon.com/cn/s3/pricing/?nc=sn&loc=4
+
+
+
+https://docs.aws.amazon.com/zh_cn/AWSEC2/latest/UserGuide/connection-prereqs.html
+https://www.amazonaws.cn/s3/faqs/
+
+以下是SAA考试时候可以附带了解各服务的一些网址
+
+https://www.jianshu.com/u/0bcad53611af
+
+https://www.jianshu.com/p/72cc9300d729
+
+https://blog.csdn.net/pg_edb/article/details/88524481
